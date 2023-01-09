@@ -1,7 +1,5 @@
 ## A full-stack web app using the MERN stack
 
-## Try it out: https://postground.netlify.app/
-
 ![VS--1-](https://user-images.githubusercontent.com/72354860/172034569-7bb1f23e-0108-4eb3-baaa-288047f97bff.jpeg)
 [Image Reference](https://www.imaginarycloud.com/blog/what-is-mern-stack-and-how-does-it-work/)
 
@@ -65,3 +63,6 @@ The lifecycle of a Trello card:
 4. Move to in progress if someone starts to work on it. This is the latest time that its owner (member) gets assigned.
 5. Move to in Review once the work is done and a PR is opened.
 6. Move to merged to main if the PR is approved and merged to main.
+
+Try it out: https://postground.netlify.app/  
+[Reference](https://youtu.be/ngc9gnGgUdA)
