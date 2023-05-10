@@ -66,5 +66,5 @@ The lifecycle of a Trello card:
 5. Move to in Review once the work is done and a PR is opened.
 6. Move to merged to main if the PR is approved and merged to main.
 
-Try it out: https://postground.netlify.app/  
+<!-- Try it out: https://postground.netlify.app/   -->
 [Reference](https://youtu.be/ngc9gnGgUdA)
